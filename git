@@ -1,0 +1,11 @@
+git 사용법
+
+- mkdir  폴더  생성
+- 생성한 폴더로 진입 
+- git init 깃에 진입
+- git remote add origin +주소 (연동할 git Url)
+- ls -la 로 ㅎgit 폴더에 잘 있는지 확인
+- git status 올라가 파일 상태 확인
+- git add . (모든 파일 add/ add"파일")
+- git commit -m"커밋 메세지"
+- git push origin master
